@@ -1,6 +1,6 @@
 # CP2PBR
 
------> [Download the Blender plugin from here!](https://github.com/Riccardo-Foschi/CP2PBR/releases/download/v1.9/CP2PBR1-9.zip)<-----
+-----> [Download the Blender plugin from here!](https://github.com/Riccardo-Foschi/CP2PBR/releases/download/v2.0/CP2PBR2-0.zip)<-----
 
 CM2PBR is a Blender plugin that generates Metalness, Roughness, Albedo, and Normal maps by post-processing cross-polarized and non-cross-polarized textures. The two input textures must share the same UV layout.
 
